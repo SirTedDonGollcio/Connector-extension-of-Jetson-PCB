@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=CON1 Old Footprint=ARK3 New Footprint=ARK3
+Change Physical Footprint: Designator=CON2 Old Footprint=ARK4 New Footprint=ARK4
+Change Physical Footprint: Designator=J1 Old Footprint=Molex_22-05-7035_MFG New Footprint=Molex_22-05-7035_MFG
+Change Physical Footprint: Designator=J2 Old Footprint=Molex_22-05-7035_MFG New Footprint=Molex_22-05-7035_MFG
+Change Physical Footprint: Designator=J3 Old Footprint=0022057055 New Footprint=0022057055
+Change Physical Footprint: Designator=J4 Old Footprint=Molex_22-05-7065_0 New Footprint=Molex_22-05-7065_0
+Change Physical Footprint: Designator=J5 Old Footprint=Molex_22-05-7035_MFG New Footprint=Molex_22-05-7035_MFG
+Change Physical Footprint: Designator=J6 Old Footprint=Molex_22-05-7035_MFG New Footprint=Molex_22-05-7035_MFG
+Change Physical Footprint: Designator=J7 Old Footprint=Molex_22-05-7045_0 New Footprint=Molex_22-05-7045_0
+Change Physical Footprint: Designator=J8 Old Footprint=Molex_22-05-7045_0 New Footprint=Molex_22-05-7045_0
+Change Physical Footprint: Designator=J10 Old Footprint=SAMTEC-BCS-120-X-S-TE New Footprint=SAMTEC-BCS-120-X-S-TE

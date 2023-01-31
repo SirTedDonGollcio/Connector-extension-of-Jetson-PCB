@@ -1,0 +1,191 @@
+Change Component Comment : Designator=J1 Old Comment=22-05-7035 New Comment=I2C_0_21J
+Change Component Comment : Designator=J2 Old Comment=22-05-7035 New Comment=I2C_1_21J
+Change Component Comment : Designator=J5 Old Comment=22-05-7035 New Comment=I2C_3_J26
+Change Component Comment : Designator=J6 Old Comment=22-05-7035 New Comment=I2C_3_J26
+Change Component Comment : Designator=J7 Old Comment=22-05-7045 New Comment=CAN_0_J26
+Change Component Comment : Designator=J8 Old Comment=22-05-7045 New Comment=CAN_0_J26
+Change Component Comment : Designator=J4 Old Comment=22-05-7065 New Comment=SPI_0_21J
+Change Component Comment : Designator=J3 Old Comment=UART New Comment=UART_0_21J
+Change Component Description : Designator=J4 Old Description=SPI New Description=SPI_0_21J
+Change Component Description : Designator=CON1 Old Description=Zlacze srubowe 3 piny New Description=Zlacze srubowe 3 piny
+Change Component Description : Designator=CON2 Old Description=Zlacze srubowe 4 piny New Description=Zlacze srubowe 4 piny
+Added Component: Designator=CON3(ARK4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SO-8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/IRF4435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SO-8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/IRF4435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SO-8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/IRF4435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SO-8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/IRF4435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=GND Pin=Q1-5
+Added Pin To Net: NetName=GND Pin=Q1-6
+Added Pin To Net: NetName=GND Pin=Q1-7
+Added Pin To Net: NetName=GND Pin=Q1-8
+Added Pin To Net: NetName=GND Pin=Q2-5
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=GND Pin=Q2-7
+Added Pin To Net: NetName=GND Pin=Q2-8
+Added Pin To Net: NetName=GND Pin=Q3-5
+Added Pin To Net: NetName=GND Pin=Q3-6
+Added Pin To Net: NetName=GND Pin=Q3-7
+Added Pin To Net: NetName=GND Pin=Q3-8
+Added Pin To Net: NetName=GND Pin=Q4-5
+Added Pin To Net: NetName=GND Pin=Q4-6
+Added Pin To Net: NetName=GND Pin=Q4-7
+Added Pin To Net: NetName=GND Pin=Q4-8
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=OFF_PIN Pin=Q2-1
+Added Pin To Net: NetName=OFF_PIN Pin=Q2-2
+Added Pin To Net: NetName=OFF_PIN Pin=Q2-3
+Added Pin To Net: NetName=OFF_PIN Pin=R2-1
+Added Net: Name=OFF_PIN
+Added Pin To Net: NetName=OFF_REC Pin=P1-7
+Added Net: Name=OFF_REC
+Added Pin To Net: NetName=OFF_SIG Pin=CON3-3
+Added Pin To Net: NetName=OFF_SIG Pin=Q2-4
+Added Pin To Net: NetName=OFF_SIG Pin=R4-1
+Added Net: Name=OFF_SIG
+Added Pin To Net: NetName=PWR_PIN Pin=P1-9
+Added Pin To Net: NetName=PWR_PIN Pin=Q1-1
+Added Pin To Net: NetName=PWR_PIN Pin=Q1-2
+Added Pin To Net: NetName=PWR_PIN Pin=Q1-3
+Added Pin To Net: NetName=PWR_PIN Pin=R1-1
+Added Net: Name=PWR_PIN
+Added Pin To Net: NetName=PWR_SIG Pin=CON3-4
+Added Pin To Net: NetName=PWR_SIG Pin=Q1-4
+Added Pin To Net: NetName=PWR_SIG Pin=R3-1
+Added Net: Name=PWR_SIG
+Added Pin To Net: NetName=REC_PIN Pin=P1-5
+Added Pin To Net: NetName=REC_PIN Pin=Q3-1
+Added Pin To Net: NetName=REC_PIN Pin=Q3-2
+Added Pin To Net: NetName=REC_PIN Pin=Q3-3
+Added Pin To Net: NetName=REC_PIN Pin=R5-1
+Added Net: Name=REC_PIN
+Added Pin To Net: NetName=REC_SIG Pin=CON3-2
+Added Pin To Net: NetName=REC_SIG Pin=Q3-4
+Added Pin To Net: NetName=REC_SIG Pin=R7-1
+Added Net: Name=REC_SIG
+Added Pin To Net: NetName=RST_PIN Pin=P1-3
+Added Pin To Net: NetName=RST_PIN Pin=Q4-1
+Added Pin To Net: NetName=RST_PIN Pin=Q4-2
+Added Pin To Net: NetName=RST_PIN Pin=Q4-3
+Added Pin To Net: NetName=RST_PIN Pin=R6-1
+Added Net: Name=RST_PIN
+Added Pin To Net: NetName=RST_SIG Pin=CON3-1
+Added Pin To Net: NetName=RST_SIG Pin=Q4-4
+Added Pin To Net: NetName=RST_SIG Pin=R8-1
+Added Net: Name=RST_SIG
+Added Member To Class: ClassName=2002A Member=Component CON3 ARK4
+Added Member To Class: ClassName=2002A Member=Component P1 HDR1X10
+Added Member To Class: ClassName=2002A Member=Component Q1 IRF9321PbF
+Added Member To Class: ClassName=2002A Member=Component Q2 IRF9321PbF
+Added Member To Class: ClassName=2002A Member=Component Q3 IRF9321PbF
+Added Member To Class: ClassName=2002A Member=Component Q4 IRF9321PbF
+Added Member To Class: ClassName=2002A Member=Component R1 1k
+Added Member To Class: ClassName=2002A Member=Component R2 1k
+Added Member To Class: ClassName=2002A Member=Component R3 1k
+Added Member To Class: ClassName=2002A Member=Component R4 100k
+Added Member To Class: ClassName=2002A Member=Component R5 100k
+Added Member To Class: ClassName=2002A Member=Component R6 100k
+Added Member To Class: ClassName=2002A Member=Component R7 100k
+Added Member To Class: ClassName=2002A Member=Component R8 100k

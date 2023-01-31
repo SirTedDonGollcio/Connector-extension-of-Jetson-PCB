@@ -1,0 +1,53 @@
+Change Component Footprint: Designator=J9 Old Footprint=SAMTEC-BCS-120-X-S-TE New Footprint=Female Header20x2
+Change Component Description : Designator=CON1 Old Description=Zlacze srubowe 3 piny New Description=Zlacze srubowe 3 piny
+Change Component Description : Designator=CON2 Old Description=Zlacze srubowe 4 piny New Description=Zlacze srubowe 4 piny
+Added Component: Designator=J1(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(Molex_22-05-7065_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(Molex_22-05-7045_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(Molex_22-05-7045_0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CLK0 Pin=J1-1
+Added Pin To Net: NetName=DAT0 Pin=J1-2
+Added Pin To Net: NetName=+3V3 Pin=J1-3
+Added Pin To Net: NetName=CLK1 Pin=J2-1
+Added Pin To Net: NetName=DAT1 Pin=J2-2
+Added Pin To Net: NetName=+3V3 Pin=J2-3
+Added Pin To Net: NetName=MOSI Pin=J4-1
+Added Pin To Net: NetName=MISO Pin=J4-2
+Added Pin To Net: NetName=SC Pin=J4-3
+Added Pin To Net: NetName=CS Pin=J4-4
+Added Pin To Net: NetName=+3V3 Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=CLK2 Pin=J5-1
+Added Pin To Net: NetName=DAT2 Pin=J5-2
+Added Pin To Net: NetName=+1V8 Pin=J5-3
+Added Pin To Net: NetName=CLK3 Pin=J6-1
+Added Pin To Net: NetName=DAT3 Pin=J6-2
+Added Pin To Net: NetName=+1V8 Pin=J6-3
+Added Pin To Net: NetName=RX_C0 Pin=J7-1
+Added Pin To Net: NetName=TX_C0 Pin=J7-2
+Added Pin To Net: NetName=ERR_C0 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=RX_C1 Pin=J8-1
+Added Pin To Net: NetName=TX_C1 Pin=J8-2
+Added Pin To Net: NetName=ERR_C1 Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J9-34
+Added Pin To Net: NetName=CTS Pin=J9-36
+Added Pin To Net: NetName=GND Pin=J9-39
+Added Member To Class: ClassName=2002A Member=Component J1 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J2 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J4 22-05-7065
+Added Member To Class: ClassName=2002A Member=Component J5 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J6 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J7 22-05-7045
+Added Member To Class: ClassName=2002A Member=Component J8 22-05-7045

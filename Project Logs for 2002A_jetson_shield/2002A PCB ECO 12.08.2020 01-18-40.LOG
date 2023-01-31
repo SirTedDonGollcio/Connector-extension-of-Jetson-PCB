@@ -1,0 +1,141 @@
+Added Component: Designator=CON1(ARK3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON2(ARK4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(0022057055)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0022057055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022057055_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022057055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=J4(Molex_22-05-7065_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(Molex_22-05-7035_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(Molex_22-05-7045_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(Molex_22-05-7045_0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(Female Header20x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BCS-120-S-S-TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BCS-120-S-S-TE/Samtec/view-part/2820457/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(SAMTEC-BCS-120-X-S-TE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BCS-120-S-S-TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BCS-120-S-S-TE/Samtec/view-part/2820457/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANWake Pin=CON1-1
+Added Pin To Net: NetName=CANStand Pin=CON1-2
+Added Pin To Net: NetName=SLEEP Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=CON2-1
+Added Pin To Net: NetName=+1V8 Pin=CON2-2
+Added Pin To Net: NetName=+3V3 Pin=CON2-3
+Added Pin To Net: NetName=+5V Pin=CON2-4
+Added Pin To Net: NetName=CLK0 Pin=J1-1
+Added Pin To Net: NetName=DAT0 Pin=J1-2
+Added Pin To Net: NetName=+3V3 Pin=J1-3
+Added Pin To Net: NetName=CLK1 Pin=J2-1
+Added Pin To Net: NetName=DAT1 Pin=J2-2
+Added Pin To Net: NetName=+3V3 Pin=J2-3
+Added Pin To Net: NetName=TX Pin=J3-1
+Added Pin To Net: NetName=RX Pin=J3-2
+Added Pin To Net: NetName=RTS Pin=J3-3
+Added Pin To Net: NetName=CTS Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=MOSI Pin=J4-1
+Added Pin To Net: NetName=MISO Pin=J4-2
+Added Pin To Net: NetName=SC Pin=J4-3
+Added Pin To Net: NetName=CS Pin=J4-4
+Added Pin To Net: NetName=+3V3 Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=CLK2 Pin=J5-1
+Added Pin To Net: NetName=DAT2 Pin=J5-2
+Added Pin To Net: NetName=+1V8 Pin=J5-3
+Added Pin To Net: NetName=CLK3 Pin=J6-1
+Added Pin To Net: NetName=DAT3 Pin=J6-2
+Added Pin To Net: NetName=+1V8 Pin=J6-3
+Added Pin To Net: NetName=RX_C0 Pin=J7-1
+Added Pin To Net: NetName=TX_C0 Pin=J7-2
+Added Pin To Net: NetName=ERR_C0 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=RX_C1 Pin=J8-1
+Added Pin To Net: NetName=TX_C1 Pin=J8-2
+Added Pin To Net: NetName=ERR_C1 Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=+3V3 Pin=J9-1
+Added Pin To Net: NetName=+5V Pin=J9-2
+Added Pin To Net: NetName=DAT0 Pin=J9-3
+Added Pin To Net: NetName=+5V Pin=J9-4
+Added Pin To Net: NetName=CLK0 Pin=J9-5
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Pin To Net: NetName=TX Pin=J9-8
+Added Pin To Net: NetName=GND Pin=J9-9
+Added Pin To Net: NetName=RX Pin=J9-10
+Added Pin To Net: NetName=RTS Pin=J9-11
+Added Pin To Net: NetName=GND Pin=J9-14
+Added Pin To Net: NetName=+3V3 Pin=J9-17
+Added Pin To Net: NetName=MOSI Pin=J9-19
+Added Pin To Net: NetName=GND Pin=J9-20
+Added Pin To Net: NetName=MISO Pin=J9-21
+Added Pin To Net: NetName=SC Pin=J9-23
+Added Pin To Net: NetName=CS Pin=J9-24
+Added Pin To Net: NetName=GND Pin=J9-25
+Added Pin To Net: NetName=CLK1 Pin=J9-27
+Added Pin To Net: NetName=DAT1 Pin=J9-28
+Added Pin To Net: NetName=GND Pin=J9-30
+Added Pin To Net: NetName=GND Pin=J9-34
+Added Pin To Net: NetName=CTS Pin=J9-36
+Added Pin To Net: NetName=GND Pin=J9-39
+Added Pin To Net: NetName=CANWake Pin=J10-1
+Added Pin To Net: NetName=CANWake Pin=J10-1
+Added Pin To Net: NetName=+3V3 Pin=J10-2
+Added Pin To Net: NetName=+1V8 Pin=J10-4
+Added Pin To Net: NetName=RX_C0 Pin=J10-5
+Added Pin To Net: NetName=TX_C0 Pin=J10-7
+Added Pin To Net: NetName=+5V Pin=J10-8
+Added Pin To Net: NetName=ERR_C0 Pin=J10-9
+Added Pin To Net: NetName=GND Pin=J10-10
+Added Pin To Net: NetName=GND Pin=J10-11
+Added Pin To Net: NetName=CLK2 Pin=J10-12
+Added Pin To Net: NetName=CANStand Pin=J10-13
+Added Pin To Net: NetName=DAT2 Pin=J10-14
+Added Pin To Net: NetName=RX_C1 Pin=J10-15
+Added Pin To Net: NetName=TX_C1 Pin=J10-17
+Added Pin To Net: NetName=CLK3 Pin=J10-18
+Added Pin To Net: NetName=ERR_C1 Pin=J10-19
+Added Pin To Net: NetName=DAT3 Pin=J10-20
+Added Pin To Net: NetName=GND Pin=J10-21
+Added Pin To Net: NetName=SLEEP Pin=J10-22
+Added Pin To Net: NetName=GND Pin=J10-28
+Added Member To Class: ClassName=2002A Member=Component CON1 ARK3
+Added Member To Class: ClassName=2002A Member=Component CON2 ARK4
+Added Member To Class: ClassName=2002A Member=Component J1 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J2 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J3 UART
+Added Member To Class: ClassName=2002A Member=Component J4 22-05-7065
+Added Member To Class: ClassName=2002A Member=Component J5 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J6 22-05-7035
+Added Member To Class: ClassName=2002A Member=Component J7 22-05-7045
+Added Member To Class: ClassName=2002A Member=Component J8 22-05-7045
+Added Member To Class: ClassName=2002A Member=Component J9 Input from J21
+Added Member To Class: ClassName=2002A Member=Component J10 SAMTEC-BCS-120-X-S-TE

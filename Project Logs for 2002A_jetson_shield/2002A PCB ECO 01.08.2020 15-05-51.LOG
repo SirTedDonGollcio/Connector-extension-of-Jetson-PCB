@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J9 Old Footprint=SAMTEC-BCS-120-X-S-TE New Footprint=Female Header20x2
+Added Pin To Net: NetName=GND Pin=J9-34
+Added Pin To Net: NetName=CTS Pin=J9-36
+Added Pin To Net: NetName=GND Pin=J9-39

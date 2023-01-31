@@ -1,0 +1,4 @@
+Change Component Description : Designator=CON1 Old Description=Zlacze srubowe 3 piny New Description=Zlacze srubowe 3 piny
+Change Component Description : Designator=CON2 Old Description=Zlacze srubowe 4 piny New Description=Zlacze srubowe 4 piny
+Change Component Description : Designator=CON3 Old Description=Zlacze srubowe 4 piny New Description=Zlacze srubowe 4 piny
+Added Pin To Net: NetName=OFF_PIN Pin=P1-7

@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=PWR_PIN Pin=Q1-1
+Removed Pin From Net: NetName=PWR_PIN Pin=Q1-2
+Removed Pin From Net: NetName=PWR_SIG Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=Q1-5
+Removed Pin From Net: NetName=GND Pin=Q1-6
+Removed Pin From Net: NetName=GND Pin=Q1-7
+Removed Pin From Net: NetName=GND Pin=Q1-8
+Removed Pin From Net: NetName=OFF_PIN Pin=Q2-1
+Removed Pin From Net: NetName=OFF_PIN Pin=Q2-2
+Removed Pin From Net: NetName=OFF_SIG Pin=Q2-4
+Removed Pin From Net: NetName=GND Pin=Q2-5
+Removed Pin From Net: NetName=GND Pin=Q2-6
+Removed Pin From Net: NetName=GND Pin=Q2-7
+Removed Pin From Net: NetName=GND Pin=Q2-8
+Removed Pin From Net: NetName=REC_PIN Pin=Q3-1
+Removed Pin From Net: NetName=REC_PIN Pin=Q3-2
+Removed Pin From Net: NetName=REC_SIG Pin=Q3-4
+Removed Pin From Net: NetName=GND Pin=Q3-5
+Removed Pin From Net: NetName=GND Pin=Q3-6
+Removed Pin From Net: NetName=GND Pin=Q3-7
+Removed Pin From Net: NetName=GND Pin=Q3-8
+Removed Pin From Net: NetName=RST_PIN Pin=Q4-1
+Removed Pin From Net: NetName=RST_PIN Pin=Q4-2
+Removed Pin From Net: NetName=RST_SIG Pin=Q4-4
+Removed Pin From Net: NetName=GND Pin=Q4-5
+Removed Pin From Net: NetName=GND Pin=Q4-6
+Removed Pin From Net: NetName=GND Pin=Q4-7
+Removed Pin From Net: NetName=GND Pin=Q4-8
+Change Component Footprint: Designator=Q1 Old Footprint=SO-8_N New Footprint=SOT23
+Change Component Footprint: Designator=Q2 Old Footprint=SO-8_N New Footprint=SOT23
+Change Component Footprint: Designator=Q3 Old Footprint=SO-8_N New Footprint=SOT23
+Change Component Footprint: Designator=Q4 Old Footprint=SO-8_N New Footprint=SOT23
+Change Component Comment : Designator=Q1 Old Comment=IRF9321PbF New Comment=2N7002
+Change Component Comment : Designator=Q2 Old Comment=IRF9321PbF New Comment=2N7002
+Change Component Comment : Designator=Q3 Old Comment=IRF9321PbF New Comment=2N7002
+Change Component Comment : Designator=Q4 Old Comment=IRF9321PbF New Comment=2N7002
+Change component parameters: Designator = "Q1"; Footprint = "SOT23"; UniqueID = "\HARUQJLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q2"; Footprint = "SOT23"; UniqueID = "\EGVSGNQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q3"; Footprint = "SOT23"; UniqueID = "\LDOIKFAX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Q4"; Footprint = "SOT23"; UniqueID = "\KGEUIQUV"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=PWR_SIG Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=OFF_SIG Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=REC_SIG Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=RST_SIG Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Change Net Name : Old Net Name=CLK0 New Net Name=I2C_CLK0
+Change Net Name : Old Net Name=CLK1 New Net Name=I2C_CLK1
+Change Net Name : Old Net Name=CLK2 New Net Name=I2C_CLK2
+Change Net Name : Old Net Name=CLK3 New Net Name=I2C_CLK3
+Change Net Name : Old Net Name=CS New Net Name=SPI_CS
+Change Net Name : Old Net Name=CTS New Net Name=UART_CTS
+Change Net Name : Old Net Name=DAT0 New Net Name=I2C_DAT0
+Change Net Name : Old Net Name=DAT1 New Net Name=I2C_DAT1
+Change Net Name : Old Net Name=DAT2 New Net Name=I2C_DAT2
+Change Net Name : Old Net Name=DAT3 New Net Name=I2C_DAT3
+Change Net Name : Old Net Name=ERR_C0 New Net Name=CAN0_ERR
+Change Net Name : Old Net Name=ERR_C1 New Net Name=CAN1_ERR
+Change Net Name : Old Net Name=MISO New Net Name=SPI_MISO
+Change Net Name : Old Net Name=MOSI New Net Name=SPI_MOSI
+Change Net Name : Old Net Name=RTS New Net Name=UART_RTS
+Change Net Name : Old Net Name=RX New Net Name=UART_RX
+Change Net Name : Old Net Name=RX_C0 New Net Name=CAN0_RX
+Change Net Name : Old Net Name=RX_C1 New Net Name=CAN1_RX
+Change Net Name : Old Net Name=SC New Net Name=SPI_SC
+Change Net Name : Old Net Name=SLEEP New Net Name=C_SLEEP
+Change Net Name : Old Net Name=TX New Net Name=UART_TX
+Change Net Name : Old Net Name=TX_C0 New Net Name=CAN0_TX
+Change Net Name : Old Net Name=TX_C1 New Net Name=CAN1_TX
